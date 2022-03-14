@@ -46,7 +46,7 @@ public class App
         //배열 정렬 sort()
         int[] sortarr = {1,3,0,2,4,5}; 
         Arrays.sort(sortarr); 
-        System.out.println(Arrays.toString(sortarr));
-             
+        System.out.println(Arrays.toString(sortarr)); //[0, 1, 2, 3, 4, 5]
+
     }
 }
