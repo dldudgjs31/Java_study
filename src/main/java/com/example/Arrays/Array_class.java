@@ -1,13 +1,12 @@
 package com.example.Arrays;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class Array_class 
 {
     public static void main( String[] args )
     {
